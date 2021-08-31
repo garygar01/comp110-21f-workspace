@@ -1,5 +1,7 @@
 """3rd part of Ex01."""
 
+__author__ = "730395568"
+
 left = int(input("Left-hand side: "))
 
 right = int(input("Right-hand side: "))

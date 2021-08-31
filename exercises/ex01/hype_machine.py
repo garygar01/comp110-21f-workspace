@@ -1,5 +1,7 @@
 """First Part of EX01."""
 
+__author__ = "730395568"
+
 name: str = input("What is your name? ")
 print("You entered: ")
 print(name)
